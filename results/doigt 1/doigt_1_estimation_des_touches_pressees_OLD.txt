@@ -1,0 +1,89 @@
+84 (Sol4)   --> 94 (Do5)
+97 (Do5)    --> 107 (Ré♯5)
+117 (Ré♯5)  --> 127 (Ré5)
+154 (Ré5)   --> 164 (Ré♯5)
+174 (Ré♯5)  --> 184 (Ré5)
+185 (Ré5)   --> 195 (Sol4)
+206 (Sol4)  --> 216 (La4)
+215 (La4)   --> 225 (Sol♯4)
+225 (Sol♯4) --> 235 (La♯4)
+238 (Si4)   --> 248 (Si4)
+246 (Si4)   --> 256 (Do5)
+324 (Do5)   --> 334 (Si4)
+338 (La4)   --> 348 (Fa4)
+350 (Sol4)  --> 360 (Sol♯4)
+366 (Sol♯4) --> 376 (Do5)
+439 (Si4)   --> 449 (Do5)
+450 (Do5)   --> 460 (Ré5)
+490 (Ré5)   --> 500 (Do5)
+498 (Do5)   --> 508 (Do5)
+531 (Si4)   --> 541 (Si4)
+586 (La4)   --> 596 (Sol4)
+602 (Sol4)  --> 612 (Do5)
+616 (Do5)   --> 626 (Ré♯5)
+631 (Ré♯5)  --> 641 (Ré5)
+663 (Ré5)   --> 673 (Ré5)
+690 (Mi5)   --> 700 (Ré5)
+702 (Ré5)   --> 712 (Sol4)
+728 (Sol4)  --> 738 (La4)
+739 (La4)   --> 749 (La4)
+756 (La♯4)  --> 766 (Si4)
+783 (Si4)   --> 793 (Si4)
+844 (Do5)   --> 854 (Do5)
+866 (La4)   --> 876 (Sol4)
+875 (Sol♯4) --> 885 (Fa4)
+884 (Fa4)   --> 894 (Sol4)
+912 (Do5)   --> 922 (Do5)
+954 (Do5)   --> 964 (Fa4)
+982 (Fa4)   --> 992 (Sol4)
+1000 (Sol4) --> 1010 (Ré4)
+1012 (Ré4)  --> 1022 (None)
+1023 (Do4)  --> 1033 (Do4)
+
+
+Notes détectées (41) :
+[ 2.530s]  Sol4   Index        frame_76.jpg    (1025.60, 605.80)  amp=?px	NON-DETECTEE
+[ 3.133s]  Do5    Index        frame_94.jpg    (1130.05, 600.34)  amp=10.69px	OK
+[ 3.566s]  Ré♯5   Index        frame_107.jpg   (1197.83, 506.09)  amp=14.57px	OK
+[ 4.233s]  Ré5    Index        frame_127.jpg   (1170.23, 595.74)  amp=73.06px	OK
+[ 5.466s]  Ré♯5   Index        frame_164.jpg   (1200.23, 558.80)  amp=16.14px	OK
+[ 6.133s]  Ré5    Index        frame_184.jpg   (1171.37, 600.43)  amp=19.90px	OK
+[ 6.500s]  Sol4   Index        frame_195.jpg   (1019.41, 608.14)  amp=26.39px	OK
+[ 7.200s]  La4    Index        frame_216.jpg   (1045.93, 578.50)  amp=10.61px	INEXISTANTE
+[ 7.500s]  Sol♯4  Index        frame_225.jpg   (1051.51, 536.93)  amp=25.83px	OK
+[ 7.833s]  La♯4   Index        frame_235.jpg   (1086.79, 530.64)  amp=57.45px	OK
+[ 8.266s]  Si4    Index        frame_248.jpg   (1112.60, 550.16)  amp=6.98px	INEXISTANTE
+[ 8.533s]  Do5    Index        frame_256.jpg   (1138.50, 592.54)  amp=27.15px	OK
+[11.133s]  Si4    Index        frame_334.jpg   (1106.68, 604.21)  amp=25.32px	INEXISTANTE
+[11.600s]  Fa4    Index        frame_348.jpg   ( 991.58, 590.65)  amp=6.73px	OK
+[12.000s]  Sol♯4  Index        frame_360.jpg   (1048.86, 536.90)  amp=27.76px	OK
+[12.533s]  Do5    Index        frame_376.jpg   (1134.11, 576.64)  amp=22.17px	OK
+[13.040s]  Do5    Index        frame_392.jpg   (1134.20, 590.00)  amp=?px	NON-DETECTEE (DELAI ENTRE TOUCHES)
+[14.400s]  Si4    Index        frame_432.jpg   (1135.90, 595.70)  amp=?px	NON-DETECTEE
+[14.966s]  Do5    Index        frame_449.jpg   (1133.35, 608.54)  amp=4.45px	OK
+[15.333s]  Ré5    Index        frame_460.jpg   (1170.47, 608.04)  amp=4.46px	OK
+[16.666s]  Do5    Index        frame_500.jpg   (1128.94, 606.47)  amp=11.63px	OK
+[16.933s]  Do5    Index        frame_508.jpg   (1135.32, 601.85)  amp=6.00px	INEXISTANTE
+[18.033s]  Si4    Index        frame_541.jpg   (1099.31, 605.65)  amp=16.32px	OK
+[19.866s]  Sol4   Index        frame_596.jpg   (1027.41, 598.78)  amp=19.45px	OK
+[20.400s]  Do5    Index        frame_612.jpg   (1128.07, 584.41)  amp=7.75px	OK
+[20.866s]  Ré♯5   Index        frame_626.jpg   (1198.39, 518.90)  amp=24.14px	OK
+[21.366s]  Ré5    Index        frame_641.jpg   (1183.85, 573.01)  amp=33.87px	OK
+[22.433s]  Ré5    Index        frame_673.jpg   (1170.20, 590.98)  amp=30.02px	MAUVAISE TOUCHE (Ré♯5)
+[23.333s]  Ré5    Index        frame_700.jpg   (1173.75, 593.81)  amp=13.74px	OK
+[23.733s]  Sol4   Index        frame_712.jpg   (1021.74, 602.75)  amp=25.05px	OK
+[24.600s]  La4    Index        frame_738.jpg   (1062.83, 523.87)  amp=37.76px	MAUVAISE TOUCHE (Sol♯4)
+[24.966s]  La♯4   Index        frame_749.jpg   (1077.24, 505.34)  amp=14.46px	OK
+[25.533s]  Si4    Index        frame_766.jpg   (1114.50, 545.49)  amp=11.01px	OK
+[26.433s]  Si4    Index        frame_793.jpg   (1102.71, 567.13)  amp=56.12px	INEXISTANTE
+[28.466s]  Do5    Index        frame_854.jpg   (1133.34, 598.09)  amp=4.02px	OK
+[29.200s]  Sol4   Index        frame_876.jpg   (1038.30, 563.18)  amp=33.42px	MAUVAISE TOUCHE (Sol♯4)
+[29.500s]  Fa4    Index        frame_885.jpg   ( 991.92, 597.23)  amp=16.40px	OK
+[29.800s]  Sol4   Index        frame_894.jpg   (1032.60, 601.85)  amp=6.21px	OK
+[30.733s]  Do5    Index        frame_922.jpg   (1134.32, 603.58)  amp=6.54px	OK
+[31.030s]  Do5    Index        frame_931.jpg   (1140.10, 603.60)  amp=?px	NON-DETECTEE (DELAI ENTRE TOUCHES)
+[32.133s]  Fa4    Index        frame_964.jpg   ( 989.41, 615.42)  amp=15.07px	OK
+[33.066s]  Sol4   Index        frame_992.jpg   (1025.64, 611.77)  amp=12.49px	OK
+[33.666s]  Ré4    Index        frame_1010.jpg  ( 913.34, 597.28)  amp=6.39px	OK
+[34.066s]  -----  Index        frame_1022.jpg  ( 899.42, 646.68)  amp=16.45px	INEXISTANTE (NON CONSIDEREE)
+[34.433s]  Do4    Index        frame_1033.jpg  ( 879.23, 601.11)  amp=15.45px	OK
