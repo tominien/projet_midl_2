@@ -26,6 +26,6 @@ The code is designed to run mainly in **Google Colab**, with a reproducible CPU-
 3. Upload a **top-down piano video** (single hand is recommended).
 4. Configure the **piano geometry** for your video.
 5. Choose:
-  - Which MMPose model to use (among `MODELS_CONFIG`),
-  - Which finger(s) to track (among `["Pouce", "Index", "Majeur", "Annulaire", "Auriculaire"]`).
+   - Which MMPose model to use (among `MODELS_CONFIG`),
+   - Which finger(s) to track (among `["Pouce", "Index", "Majeur", "Annulaire", "Auriculaire"]`).
 6. Run section V.2 to extract keypoints, detect key presses and print the detected sequence of notes.
